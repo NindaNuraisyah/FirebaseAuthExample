@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "791538013525",
+    "project_id": "fir-authexample-nindana",
+    "storage_bucket": "fir-authexample-nindana.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791538013525:android:24a147e470979d5cd68bdc",
+        "android_client_info": {
+          "package_name": "com.catnip.firebaseauthexample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG41XoSMEH1STLo_NLk4Ll2z2Fp--2uTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
